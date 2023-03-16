@@ -1,16 +1,16 @@
-### Hi there 👋
+## Q:我們是誰?  
+A:我們是羅東高工資訊研究社
+  
+## Q:我們都在幹嘛?  
+我們的領域有資訊網路技術、資訊網路布建、機器人，我們的目標是全國技能競賽  
+  
+## Q:資訊網路技術都在幹嘛?  
+A:資訊網路技術主要在做的是，路由網路實務，研究及架設服務，主要使用Debian linux、Windows server2022  
+會學到網路概念，還有linux使用以及網路安全觀念。
+  
+## Q:資訊網路布建都在幹嘛?
+網路布建主要是在實體的網路布線，模擬公司機房，大樓的實體網路或者是無線網路的架設其中包括了光纖，銅纜以及smart home
+  
+## Q:機器人都在幹嘛?
+A:機器人的機構設計發想、程式設計、程式錯誤排除、影像辨識判斷、3D繪圖及組裝、3D列印，機器人選手需要的能力有程式能力還需要了解並使用機械原理，還有電路控制，我們是使用LabVIEW去做程式控制
 
-<!--
-**ltivsinfo/ltivsinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
